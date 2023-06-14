@@ -42,7 +42,7 @@ const AirQualityCalculator = () => {
     <summary>This is an air quality calculator </summary>
       <div>
         <label>
-          ACH (Air Changes per Hour):
+          Air Changes per Hour:
           <input type="number" value={ach} onChange={handleACHChange} />
         </label>
       </div>
