@@ -48,3 +48,28 @@ h2{
 
 
 }
+
+
+
+@media only screen and (max-width: 414px) {
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  h1 {
+    font-size: 35px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
+}
+
