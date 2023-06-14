@@ -39,7 +39,7 @@ const AirQualityCalculator = () => {
   return (
     <div className="AirQualityCalculator">
       <h2>CADR Conscious</h2>
-    <details>This is an air quality calculator </details>
+    <summary>This is an air quality calculator </summary>
       <div>
         <label>
           ACH (Air Changes per Hour):
